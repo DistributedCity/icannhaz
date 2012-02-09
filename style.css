@@ -1,0 +1,58 @@
+body {
+  font-family: Helvetica, Verdana, sans-serif
+}
+
+#main {
+  margin: 0 auto;
+  width: 800px;
+}
+
+#header {
+  text-align: center;
+  font-size: 10em;
+}
+
+#subheader {
+  text-align: center;
+  font-style: italic;
+  font-size: 2em;
+}
+
+.coolio {
+  float: left;
+  margin-right: 0.5em;
+  width: 73px;
+  height: 70px;
+}
+
+.coolio-sez {
+  height: 80px;
+}
+
+.coolio-blurb {
+  font-size: 1.6em;
+  font-color: gray;
+}
+
+.code-bullets {
+  line-height: 130%;
+}
+
+.code-bullets li {
+  margin-top: 1em;
+}
+
+.code {
+  padding: 0.05em 0.2em;
+  background: #EEEEEE;
+  color: #444444;
+  border: 1px solid #AAAAAA;
+  font-weight: bold;
+}
+
+blockquote {
+    font-size: 1em;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
